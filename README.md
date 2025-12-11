@@ -48,7 +48,7 @@ A fully managed document intelligence API built on top of the OSS engine. Same e
 
 Join our[ dev community]([url](https://discord.gg/xzx4KkAPED)), ask questions, and share what you’re building.
 
--[ Discord link  ]([url](https://discord.gg/xzx4KkAPED)) https://discord.gg/xzx4KkAPED 
+- [ Discord link  ]([url](https://discord.gg/xzx4KkAPED)) https://discord.gg/xzx4KkAPED 
 - [Linkedin]([url](https://www.linkedin.com/company/kreuzberg-dev/)) https://www.linkedin.com/company/kreuzberg-dev/ 
 - X/Twitter → coming soon  
 
@@ -62,6 +62,7 @@ We follow a simple workflow:
 4. Maintainers review and merge  
 
 Please see **CONTRIBUTING.md** in the respective repos for detailed guidelines.
+Kreuzberg.dev repo https://github.com/kreuzberg-dev/kreuzberg 
 
 
 ## 📜 License
