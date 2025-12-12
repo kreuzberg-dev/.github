@@ -3,9 +3,7 @@
 
 Kreuzberg is a polyglot document intelligence framework with a fast Rust core. We build tools that help developers extract, process, and understand documents at scale, from PDFs to Office files, images, archives, emails, in 50+ formats.
 
-Our mission is simple:  
-**Make high-performance document intelligence faster, cheaper, and more ecological than before.**
-
+**We're setting out to make high-performance document intelligence faster, cheaper, and more ecological than before.**
 
 ## ⭐ What is Kreuzberg
 
@@ -22,7 +20,7 @@ A polyglot document intelligence engine
 
 
 ### **2. Kreuzberg Cloud (Coming Soon)**  
-A fully managed document intelligence API built on top of the OSS engine. Same engine, zero setup.
+A fully managed document intelligence API. Same engine, zero setup.
 
 **Planned features:**
 
@@ -34,7 +32,7 @@ A fully managed document intelligence API built on top of the OSS engine. Same e
 - Simple pay-as-you-go pricing  
 
 
-## ⚡ Why Devs Choose Kreuzberg
+## Why Devs Choose Kreuzberg
 
 - Truly polyglot — Python, Rust, JS, Ruby, Go, Java, C#.  
 - High throughput — Optimized for batch workloads and multi-GB documents.  
