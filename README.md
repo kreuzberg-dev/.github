@@ -3,7 +3,7 @@
 
 Kreuzberg is a polyglot document intelligence framework with a fast Rust core. We build tools that help developers extract, process, and understand documents at scale, from PDFs to Office files, images, archives, emails, in 50+ formats.
 
-**We're setting out to make high-performance document intelligence faster, cheaper, and more ecological than before.**
+**We're setting out to make high-performance document intelligence faster, cheaper, and more ecological.**
 
 ## ⭐ What is Kreuzberg
 
