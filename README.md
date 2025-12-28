@@ -31,8 +31,10 @@ A fully managed document intelligence API. Same engine, zero setup.
 - Usage dashboard & analytics  
 - Simple pay-as-you-go pricing  
 
-### **3. html-to-markdown library **  
+
+### 3. html-to-markdown library
 High-performance HTML → Markdown conversion powered by Rust. Shipping as a Rust crate, Python package, PHP extension, Ruby gem, Elixir Rustler NIF, Node.js bindings, WebAssembly, and standalone CLI with identical rendering behaviour.
+
 
 ## Why Devs Choose Kreuzberg
 
