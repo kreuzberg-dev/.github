@@ -31,6 +31,8 @@ A fully managed document intelligence API. Same engine, zero setup.
 - Usage dashboard & analytics  
 - Simple pay-as-you-go pricing  
 
+### **3. html-to-markdown library **  
+High-performance HTML → Markdown conversion powered by Rust. Shipping as a Rust crate, Python package, PHP extension, Ruby gem, Elixir Rustler NIF, Node.js bindings, WebAssembly, and standalone CLI with identical rendering behaviour.
 
 ## Why Devs Choose Kreuzberg
 
@@ -46,9 +48,10 @@ A fully managed document intelligence API. Same engine, zero setup.
 
 Join our[ dev community]([url](https://discord.gg/xzx4KkAPED)), ask questions, and share what you’re building.
 
-- [ Discord link  ]([url](https://discord.gg/xzx4KkAPED)) https://discord.gg/xzx4KkAPED 
+- [ Discord link  ]([url](https://discord.gg/xzx4KkAPED)) https://discord.gg/xzx4KkAPED
+- Subreddit https://www.reddit.com/r/kreuzberg_dev/
 - [Linkedin]([url](https://www.linkedin.com/company/kreuzberg-dev/)) https://www.linkedin.com/company/kreuzberg-dev/ 
-- X/Twitter → coming soon  
+- X/Twitter → https://x.com/kreuzberg_dev 
 
 ## 🔧 Contribution Guide
 
