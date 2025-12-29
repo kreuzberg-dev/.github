@@ -1,5 +1,5 @@
 # 🌉 Kreuzberg.dev
-## The fastest Data Intelligence engine for RAG Developers: Open-Source and Cloud
+## The fastest Document Intelligence engine for RAG Developers: Open-Source and Cloud
 
 <img width="3384" height="573" alt="Linkedin- Banner" src="https://github.com/user-attachments/assets/b8a092aa-0ad4-41c3-9d84-0afd942d43e6" />
 
