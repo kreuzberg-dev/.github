@@ -1,7 +1,7 @@
 # 🌉 Kreuzberg.dev
 ## The fastest Data Intelligence engine for RAG Developers: Open-Source and Cloud
 
-<img width="1128" height="191" alt="Banner2" src="https://github.com/user-attachments/assets/f11b2556-8c8a-4121-af74-7dc0f6346356" />
+<img width="3384" height="573" alt="Linkedin- Banner" src="https://github.com/user-attachments/assets/b8a092aa-0ad4-41c3-9d84-0afd942d43e6" />
 
 
 Kreuzberg is a polyglot document intelligence framework with a fast Rust core. We build tools that help developers extract, process, and understand documents at scale, from PDFs to Office files, images, archives, emails, in 50+ formats.
