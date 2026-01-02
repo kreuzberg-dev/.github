@@ -8,13 +8,13 @@ Kreuzberg is a polyglot document intelligence framework with a fast Rust core. W
 
 **We're setting out to make high-performance document intelligence faster, cheaper, and more ecological.**
 
-## ⭐ What is Kreuzberg
+## What is Kreuzberg.dev
 
 ### **1. Kreuzberg (Open Source MIT Licensed)**  
 A polyglot document intelligence engine 
 
 - ✓ Rust core  
-- ✓ Bindings for Python, TypeScript/Node.js, Ruby, Go, Java, C#  
+- ✓ Bindings for Python, TypeScript/Node.js, Ruby, Go, Java, C#, PHP, Elixir 
 - ✓ OCR with table extraction  
 - ✓ Streaming parsers for multi-GB files  
 - ✓ Built-in chunking + embeddings for RAG  
@@ -41,7 +41,7 @@ High-performance HTML → Markdown conversion powered by Rust. Shipping as a Rus
 
 ## Why Devs Choose Kreuzberg
 
-- Truly polyglot — Python, Rust, JS, Ruby, Go, Java, C#.  
+- Truly polyglot — Python, Rust, JS, Ruby, Go, Java, C#, PHP, Elixir.  
 - High throughput — Optimized for batch workloads and multi-GB documents.  
 - Memory efficient — Streaming architecture keeps RAM usage constant.  
 - Flexible deployment — Use as library, CLI, Docker image, or REST API.  
