@@ -3,8 +3,6 @@
 
 <img width="3384" height="573" alt="Linkedin- Banner" src="https://github.com/user-attachments/assets/cfd0d072-fffc-4d33-9ed4-709c0a740b9f" />
 
-
-
 Kreuzberg is a polyglot document intelligence framework with a fast Rust core. We build tools that help developers extract, process, and understand documents at scale, from PDFs to Office files, images, archives, emails, in 50+ formats.
 
 **We're setting out to make high-performance document intelligence faster, cheaper, and more ecological.**
