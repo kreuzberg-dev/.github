@@ -1,7 +1,22 @@
 # 🌉 Kreuzberg
 ## The fastest document intelligence engine for RAG Developers — Open Source and Cloud
-
+ 
+  <!-- Project Info -->
+  <div align="center" style="margin-top: 20px;">
+  <a href="https://github.com/kreuzberg-dev/kreuzberg/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
+  </a>
+  <a href="https://docs.kreuzberg.dev">
+    <img src="https://img.shields.io/badge/docs-kreuzberg.dev-blue" alt="Documentation">
+  </a>
+</div>
 <img width="3384" height="573" alt="Linkedin- Banner" src="https://github.com/user-attachments/assets/cfd0d072-fffc-4d33-9ed4-709c0a740b9f" />
+
+<div align="center" style="margin-top: 20px;">
+  <a href="https://discord.gg/pXxagNK2zN">
+      <img height="22" src="https://img.shields.io/badge/Discord-Join%20our%20community-7289da?logo=discord&logoColor=white" alt="Discord">
+  </a>
+</div>
 
 Kreuzberg is a polyglot document intelligence framework built around a high-performance Rust core. It helps developers extract text, structure, metadata, and embeddings from 56+ document formats at native speed, without requiring GPUs.
 
