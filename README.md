@@ -1,80 +1,78 @@
 # 🌉 Kreuzberg
-## The fastest Document Intelligence engine for RAG Developers: Open-Source and Cloud
+## The fastest document intelligence engine for RAG Developers — Open Source and Cloud
 
 <img width="3384" height="573" alt="Linkedin- Banner" src="https://github.com/user-attachments/assets/cfd0d072-fffc-4d33-9ed4-709c0a740b9f" />
 
-Kreuzberg is a polyglot document intelligence framework with a fast Rust core. We build tools that help developers extract, process, and understand documents at scale, from PDFs to Office files, images, archives, emails, in 50+ formats.
+Kreuzberg is a polyglot document intelligence framework built around a high-performance Rust core. It helps developers extract text, structure, metadata, and embeddings from 56+ document formats at native speed, without requiring GPUs.
 
-**We're setting out to make high-performance document intelligence faster, cheaper, and more ecological.**
+Kreuzberg is and will remain MIT-licensed and open-source. We're currently building a hosted cloud service around it to make document processing reliable, scalable, and easy to integrate into modern pipelines.
 
-## What is Kreuzberg 
+## What is Kreuzberg
 
-### **1. Kreuzberg (Open Source MIT Licensed)**  
-A polyglot document intelligence engine 
+### 1. Kreuzberg (Open Source, MIT Licensed)
 
-- ✓ Rust core  
-- ✓ Bindings for Python, TypeScript/Node.js, Ruby, Go, Java, C#, PHP, Elixir 
-- ✓ OCR with table extraction  
-- ✓ Streaming parsers for multi-GB files  
-- ✓ Built-in chunking + embeddings for RAG  
-- ✓ CLI, REST API, Docker, MCP server
-- Read More here: https://kreuzberg.dev/ 
+A high-performance, extensible document intelligence engine.
 
+- Rust core with streaming parsers and full parallelism  
+- Native bindings for Rust, Python, Ruby, Java, Go, PHP, Elixir, C#, TypeScript(Node/Bun/Wasm/Deno)   
+- 56+ supported formats including PDF, Office, images, HTML, XML, email, archives, and scientific formats  
+- OCR with table extraction (Tesseract, EasyOCR, PaddleOCR, extensible via plugins)  
+- Built-in semantic chunking and optional embeddings for RAG pipelines  
+- CLI, REST API, Docker images, and MCP server  
 
-### **2. Kreuzberg Cloud (Coming Soon)**  
-A fully managed document intelligence API. Same engine, zero setup.
+Read more: https://kreuzberg.dev/
 
-**Planned features:**
+### 2. Kreuzberg Cloud (Coming Soon)
 
+A fully managed document intelligence API powered by the same engine.
+
+Planned features include:
 - Hosted REST API  
-- Async jobs + webhooks  
+- Async jobs and webhooks  
 - Built-in chunking for RAG pipelines  
 - Premium OCR backends  
-- Usage dashboard & analytics  
+- Usage dashboards and analytics  
 - Simple pay-as-you-go pricing  
 
+### 3. html-to-markdown
 
-### 3. html-to-markdown library
-High-performance HTML → Markdown conversion powered by Rust. Shipping as a Rust crate, Python package, PHP extension, Ruby gem, Elixir Rustler NIF, Node.js bindings, WebAssembly, and standalone CLI with identical rendering behaviour.
+A high-performance HTML → Markdown converter powered by Rust. Available as a Rust crate, Python package, PHP extension, Ruby gem, Elixir Rustler NIF, Node.js bindings, WebAssembly, and a standalone CLI- with identical rendering behavior across platforms.
 
+## Why Choose Kreuzberg
 
-## Why Devs Choose Kreuzberg
+- Truly polyglot: same engine across languages
+- High throughput: optimized for batch workloads and multi-GB documents  
+- Memory efficient: streaming architecture keeps memory usage predictable  
+- Flexible deployment: use via CLI, REST API, MCP server and more
+- MIT licensed: safe for enterprise, commercial, and closed-source use  
+- Built for RAG: native chunking, embeddings, and customization  
 
-- Truly polyglot — Python, Rust, JS, Ruby, Go, Java, C#, PHP, Elixir.  
-- High throughput — Optimized for batch workloads and multi-GB documents.  
-- Memory efficient — Streaming architecture keeps RAM usage constant.  
-- Flexible deployment — Use as library, CLI, Docker image, or REST API.  
-- MIT license — Safe for enterprise, commercial use, and closed-source products.  
-- Built for RAG — Native chunking + embeddings with full customization.  
+## Community
 
+Join our dev community to ask questions, share feedback, and show what you’re building.
 
-## 🌍 Community
+Discord: https://discord.gg/xzx4KkAPED  
+Subreddit: https://www.reddit.com/r/kreuzberg_dev/  
+LinkedIn: https://www.linkedin.com/company/kreuzberg-dev/  
+X/Twitter: https://x.com/kreuzberg_dev  
 
-Join our[ dev community]([url](https://discord.gg/xzx4KkAPED)), ask questions, and share what you’re building.
+## Contributing
 
-- [ Discord link  ]([url](https://discord.gg/xzx4KkAPED)) https://discord.gg/xzx4KkAPED
-- Subreddit https://www.reddit.com/r/kreuzberg_dev/
-- [Linkedin]([url](https://www.linkedin.com/company/kreuzberg-dev/)) https://www.linkedin.com/company/kreuzberg-dev/ 
-- X/Twitter → https://x.com/kreuzberg_dev 
+Contributions are welcome.
 
-## 🔧 Contribution Guide
+1. Open an issue to propose a change  
+2. Submit a pull request  
+3. Maintainers review and merge  
 
-Contributions are welcome!
-We follow a simple workflow:
+See CONTRIBUTING.md in the relevant repository for details.  
+Kreuzberg repository: https://github.com/kreuzberg-dev/kreuzberg
 
-1. Open an issue to propose changes  
-2. Submit a PR  
-4. Maintainers review and merge  
+## License
 
-Please see **CONTRIBUTING.md** in the respective repos for detailed guidelines.
-Kreuzberg.dev repo https://github.com/kreuzberg-dev/kreuzberg 
-
-
-## 📜 License
-
-All open-source code is **MIT licensed**. It’s permissive, enterprise-safe, and commercial-friendly.
+All open-source code is MIT licensed. It’s permissive, enterprise-safe, and commercial-friendly. That means you can use Kreuzberg freely in both commercial and closed-source products with no obligations, no viral effects, and no licensing restrictions.
 
 
-## ❤️ Maintainers
+## Maintainers
 
-Built with love in the heart of the creative and gritty district of **Kreuzberg, Berlin**
+Built with love in Kreuzberg, Berlin.
+
