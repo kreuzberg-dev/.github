@@ -1,6 +1,6 @@
 # 🌉 Kreuzberg
-## The fastest document intelligence engine for RAG Developers — Open Source and Cloud
- 
+## The fastest document intelligence engine for RAG Developers: Open Source and Cloud
+
   <!-- Project Info -->
   <div align="center" style="margin-top: 20px;">
   <a href="https://github.com/kreuzberg-dev/kreuzberg/blob/main/LICENSE">
@@ -30,7 +30,7 @@ A high-performance, extensible document intelligence engine.
 
 - Rust core with streaming parsers and full parallelism  
 - Native bindings for Rust, Python, Ruby, Java, Go, PHP, Elixir, C#, TypeScript(Node/Bun/Wasm/Deno)   
-- 56+ supported formats including PDF, Office, images, HTML, XML, email, archives, and scientific formats  
+- 75+ supported formats including PDF, Office, images, HTML, XML, email, archives, and scientific formats  
 - OCR with table extraction (Tesseract, EasyOCR, PaddleOCR, extensible via plugins)  
 - Built-in semantic chunking and optional embeddings for RAG pipelines  
 - CLI, REST API, Docker images, and MCP server  
