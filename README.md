@@ -29,7 +29,7 @@ Kreuzberg is and will remain MIT-licensed and open-source. We're currently build
 A high-performance, extensible document intelligence engine.
 
 - Rust core with streaming parsers and full parallelism  
-- Native bindings for Rust, Python, Ruby, Java, Go, PHP, Elixir, C#, TypeScript(Node/Bun/Wasm/Deno)   
+- Native bindings for Rust, Python, Ruby, Java, Go, PHP, Elixir, C#, R, C, WASM, TypeScript(Node/Bun/Wasm/Deno)   
 - 75+ supported formats including PDF, Office, images, HTML, XML, email, archives, and scientific formats  
 - OCR with table extraction (Tesseract, EasyOCR, PaddleOCR, extensible via plugins)  
 - Built-in semantic chunking and optional embeddings for RAG pipelines  
