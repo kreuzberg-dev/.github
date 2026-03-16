@@ -18,7 +18,7 @@
   </a>
 </div>
 
-Kreuzberg is a polyglot document intelligence framework built around a high-performance Rust core. It helps developers extract text, structure, metadata, and embeddings from 56+ document formats at native speed, without requiring GPUs.
+Kreuzberg is a polyglot document intelligence framework built around a high-performance Rust core. It helps developers extract text, structure, metadata, and embeddings from 88+ document formats at native speed, without requiring GPUs.
 
 Kreuzberg is and will remain MIT-licensed and open-source. We're currently building a hosted cloud service around it to make document processing reliable, scalable, and easy to integrate into modern pipelines.
 
@@ -30,7 +30,7 @@ A high-performance, extensible document intelligence engine.
 
 - Rust core with streaming parsers and full parallelism  
 - Native bindings for Rust, Python, Ruby, Java, Go, PHP, Elixir, C#, R, C, WASM, TypeScript(Node/Bun/Wasm/Deno)   
-- 75+ supported formats including PDF, Office, images, HTML, XML, email, archives, and scientific formats  
+- 88+ supported formats including PDF, Office, images, HTML, XML, email, archives, and scientific formats  
 - OCR with table extraction (Tesseract, EasyOCR, PaddleOCR, extensible via plugins)  
 - Built-in semantic chunking and optional embeddings for RAG pipelines  
 - CLI, REST API, Docker images, and MCP server  
