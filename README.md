@@ -18,13 +18,13 @@
   </a>
 </div>
 
-Kreuzberg is a polyglot document intelligence framework built around a high-performance Rust core. It helps developers extract text, structure, metadata, and embeddings from 88+ document formats at native speed, without requiring GPUs.
+Kreuzberg is a polyglot document intelligence framework built around a high-performance Rust core. It helps developers extract text, structure, metadata, and embeddings from 92+ document formats at native speed, without requiring GPUs.
 
-Kreuzberg is and will remain MIT-licensed and open-source. We're currently building a hosted cloud service around it to make document processing reliable, scalable, and easy to integrate into modern pipelines.
+Kreuzberg is an open-source library. We're currently building a hosted cloud service around it to make document processing reliable, scalable, and easy to integrate into modern pipelines.
 
 ## What is Kreuzberg
 
-### 1. Kreuzberg (Open Source, MIT Licensed)
+### 1. Kreuzberg (Open Source)
 
 A high-performance, extensible document intelligence engine.
 
@@ -81,11 +81,6 @@ Contributions are welcome.
 
 See CONTRIBUTING.md in the relevant repository for details.  
 Kreuzberg repository: https://github.com/kreuzberg-dev/kreuzberg
-
-## License
-
-All open-source code is MIT licensed. It’s permissive, enterprise-safe, and commercial-friendly. That means you can use Kreuzberg freely in both commercial and closed-source products with no obligations, no viral effects, and no licensing restrictions.
-
 
 ## Maintainers
 
