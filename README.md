@@ -1,5 +1,5 @@
 # 🌉 Kreuzberg
-## The fastest document intelligence engine for RAG Developers: Open Source and Cloud
+## Content Intelligence for AI Engineering Workflows: Open Source and Cloud
 
   <!-- Project Info -->
   <div align="center" style="margin-top: 20px;">
