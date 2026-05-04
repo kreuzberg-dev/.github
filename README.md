@@ -30,7 +30,7 @@ A high-performance, extensible document intelligence engine.
 
 - Rust core with streaming parsers and full parallelism  
 - Native bindings for Rust, Python, Ruby, Java, Go, PHP, Elixir, C#, R, C, WASM, TypeScript(Node/Bun/Wasm/Deno)   
-- 88+ supported formats including PDF, Office, images, HTML, XML, email, archives, and scientific formats  
+- 97+ supported formats including PDF, Office, images, HTML, XML, email, archives, and scientific formats  
 - OCR with table extraction (Tesseract, EasyOCR, PaddleOCR, extensible via plugins)  
 - Built-in semantic chunking and optional embeddings for RAG pipelines  
 - CLI, REST API, Docker images, and MCP server  
