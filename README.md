@@ -1,5 +1,5 @@
 # 🌉 Kreuzberg
-## Content Intelligence for AI Engineering Workflows: Open Source and Cloud
+## Document Intelligence for AI Engineering Workflows: Open Source and Cloud
 
   <!-- Project Info -->
   <div align="center" style="margin-top: 20px;">
